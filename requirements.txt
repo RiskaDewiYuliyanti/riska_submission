@@ -1,4 +1,5 @@
 matplotplib
 pandas
+numpy
 seaborn
 streamlit
