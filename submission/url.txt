@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/uciml/air-quality-dataset
+https://pandas.pydata.org/docs/
+https://matplotlib.org/stable/contents.html
+https://seaborn.pydata.org/
+https://fictional-orbit-5g45g7pj75wqhr57-8501.app.github.dev/
